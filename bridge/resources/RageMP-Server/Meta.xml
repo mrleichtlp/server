@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="My rage Server" author="Blqck" type="script" />
+  <script src="compield\netcoreapp2.2/RageMP-server.dll"/>
+</meta>
